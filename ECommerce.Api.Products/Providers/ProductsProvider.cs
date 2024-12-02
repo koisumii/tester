@@ -1,7 +1,6 @@
 ﻿using AutoMapper;
 using ECommerce.Api.Products.Db;
 using ECommerce.Api.Products.Interfaces;
-using ECommerce.Api.Products.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.Extensions.Logging;
